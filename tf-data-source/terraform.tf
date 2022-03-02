@@ -4,10 +4,6 @@ terraform {
       source  = "hashicorp/hcp"
       version = "0.22.0"
     }
-    aws = {
-      source  = "hashicorp/aws"
-      version = "4.2.0"
-    }
   }
 
   cloud {
@@ -15,7 +11,7 @@ terraform {
     hostname     = "app.terraform.io"
 
     workspaces {
-      name = "learn-hcp-packer-run-tasks"
+      name = "learn-hcp-packer-run-tasks-data-source-validation"
     }
   }
 }

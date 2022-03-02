@@ -15,7 +15,7 @@ terraform {
     hostname     = "app.terraform.io"
 
     workspaces {
-      name = "learn-hcp-packer-run-tasks"
+      name = "learn-hcp-packer-run-tasks-resource-validation"
     }
   }
 }
