@@ -48,7 +48,6 @@ Some nice description about the image being published to HCP Packer Registry.
     }
   }
   sources = [
-    "source.amazon-ebs.basic-example-east",
-    "source.amazon-ebs.basic-example-west"
+    "source.amazon-ebs.basic-example-east"
   ]
 }
