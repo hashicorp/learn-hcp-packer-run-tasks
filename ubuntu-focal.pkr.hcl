@@ -57,7 +57,7 @@ Some nice description about the image being published to HCP Packer Registry.
     bucket_labels = {
       "owner"          = "platform-team"
       "os"             = "Ubuntu",
-      "ubuntu-version" = "Xenial 16.04",
+      "ubuntu-version" = "Focal 20.04",
     }
 
     build_labels = {
