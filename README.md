@@ -1,3 +1,3 @@
 ## Learn HCP Packer - Run Tasks
 
-This is a companion repository for the HCP Packer Run Tasks tutorials on [HashiCorp Learn](https://learn.hashicorp.com/). 
+This is a companion repository for the [Identify Compromised Images with Terraform Cloud](https://developer.hashicorp.com/packer/tutorials/run-tasks-data-source-image-validation) and the [Enforce Image Compliance with Terraform Cloud](https://developer.hashicorp.com/packer/tutorials/run-tasks-resource-image-validation) tutorials.
